@@ -1,6 +1,9 @@
 # MY-PORTFOLIO
 Everything till the date what I have studies and added to the project to get confidence to grab a job.
 
+https://trimbak15.github.io/MY-PORTFOLIO/portfolio.html
+
+
 * Home section => where all the social media account as well as some summary of frontend developer is deployed / inserted.
 
 ![port1](https://user-images.githubusercontent.com/118504736/233104747-e9d7bea9-daf9-4620-9845-7ec277ff6422.png)
